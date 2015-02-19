@@ -1,2 +1,3 @@
 # hello-word
-I am just trying this out!
+This is going pretty well so far.
+I think my edits are working!
